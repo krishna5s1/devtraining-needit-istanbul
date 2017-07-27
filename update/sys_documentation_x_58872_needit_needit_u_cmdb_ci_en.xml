@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-06-26 21:25:35</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>fffa935a0f633200f7ca85bce1050e33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Configuration item(u_cmdb_ci)</sys_name>
