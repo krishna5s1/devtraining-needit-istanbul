@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Telangana Data">eaffd83f0ff04300f7ca85bce1050ea2</application>
+        <assessment display_value="Change Request Satisfaction Survey">ae1a2c44d7211100158ba6859e61038f</assessment>
+        <content_page display_value="Customer Service My Assets List">1db6f0a0c32102003a657bfaa2d3aec4</content_page>
+        <device_type/>
+        <filter table="x_58872_needit_telangana_data">employenameLIKEsun^EQ<item endquery="false" field="employename" goto="false" newquery="false" operator="LIKE" or="false" value="sun"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>Display open records</hint>
+        <homepage display_value="PA Age Open Incidents Process">00fb98f1d7f00200b96d45a3ce6103c8</homepage>
+        <image/>
+        <link_type>CONTENT_PAGE</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_telangana_data</name>
+        <order>300</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-09-01 03:05:41</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ba61207f0ff04300f7ca85bce1050ec7</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_ba61207f0ff04300f7ca85bce1050ec7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-09-01 03:11:42</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Telangana Data" max_length="40" name="x_58872_needit_telangana_data" type="collection">
+        <element label="Employee Id" max_length="40" name="employee_id" type="string"/>
+        <element label="EmployeName" max_length="40" name="employename" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_58872_needit_engineering" label="Branch" max_length="40" name="x_58872_needit_branch" type="collection">
+        <element label="UseName" max_length="32" name="usename" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="usename"/>
+        </index>
+    </element>
+</database>
